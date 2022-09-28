@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\bin\Debug\desafio_2.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\bin\Debug\desafio_2.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\bin\Debug\desafio_2.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.Form1.resources
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.Properties.Resources.resources
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\desafio_2_windows\desafio_2\obj\Debug\desafio_2.pdb
